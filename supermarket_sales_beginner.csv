@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price_SEK,Discount,Total_Sales_SEK,Region,Payment_Method
+ORD1001,23-03-2026,C0016,Apples 1kg,Fruit,1,29,0,29,Uppsala,Card
+ORD1002,14-01-2026,C0003,Mineral Water 1.5L,Beverages,1,12,0.05,11.4,Stockholm,Card
+ORD1003,28-01-2026,C0036,Orange Juice 1L,Beverages,2,31,0,62,Uppsala,Cash
+ORD1004,25-03-2026,C0038,Mineral Water 1.5L,Beverages,2,12,0.05,22.8,Gothenburg,Card
+ORD1005,21-01-2026,C0014,Ground Beef 500g,Meat,2,74,0,148,Gothenburg,Card
+ORD1006,12-01-2026,C0039,Chicken Breast 1kg,Meat,1,89,0,89,Gothenburg,Card
+ORD1007,28-02-2026,C0006,Mineral Water 1.5L,Beverages,1,12,0.05,11.4,Västerås,Swish
+ORD1008,22-03-2026,C0005,Cereal 500g,Breakfast,2,45,0.15,76.5,Stockholm,Cash
+ORD1009,30-01-2026,C0056,Rice 1kg,Pantry,6,27,0,162,Stockholm,Swish
+ORD1010,05-02-2026,C0011,Chocolate Bar,Snacks,3,16,0,48,Gothenburg,Swish
+ORD1011,27-01-2026,C0042,Pasta 500g,Pantry,3,21,0.15,53.55,Stockholm,Cash
+ORD1012,23-03-2026,C0011,Coffee 500g,Beverages,2,69,0,138,Malmö,Swish
+ORD1013,04-02-2026,C0054,Mineral Water 1.5L,Beverages,1,12,0,12,Stockholm,Card
+ORD1014,05-01-2026,C0014,Tomato Sauce,Pantry,2,19,0,38,Västerås,Cash
+ORD1015,10-02-2026,C0057,Tea 20-pack,Beverages,3,39,0.05,111.15,Malmö,Card
+ORD1016,03-02-2026,C0035,Bananas 1kg,Fruit,1,22,0.1,19.8,Gothenburg,Cash
+ORD1017,16-03-2026,C0024,Ground Beef 500g,Meat,4,74,0.05,281.2,Uppsala,Card
+ORD1018,07-03-2026,C0056,Potato Chips,Snacks,1,28,0,28,Stockholm,Unknown
+ORD1019,22-03-2026,C0039,Coffee 500g,Beverages,4,69,0.05,262.2,Stockholm,Swish
+ORD1020,18-02-2026,C0056,Chocolate Bar,Snacks,2,16,0.1,28.8,Stockholm,Cash
+ORD1021,15-01-2026,C0022,Mineral Water 1.5L,Beverages,3,12,0.15,30.6,Stockholm,Swish
+ORD1022,25-02-2026,C0057,Coffee 500g,Beverages,2,69,0.15,117.3,Gothenburg,Cash
+ORD1023,23-01-2026,C0020,Yogurt 500g,Dairy,5,26,0.15,110.5,Västerås,Cash
+ORD1024,26-01-2026,C0035,Bananas 1kg,Fruit,2,22,0,44,Västerås,Card
+ORD1025,18-03-2026,C0060,Tomato Sauce,Pantry,2,19,0,38,Gothenburg,Swish
+ORD1026,31-01-2026,C0006,Bread,Bakery,1,24,0.1,21.6,Stockholm,Cash
+ORD1027,04-03-2026,C0050,Eggs 12-pack,Dairy,6,32,0.1,172.8,Uppsala,Card
+ORD1028,26-03-2026,C0017,Potato Chips,Snacks,5,28,0,140,Västerås,Cash
+ORD1029,24-02-2026,C0045,Tea 20-pack,Beverages,5,39,0.15,165.75,Uppsala,Cash
+ORD1030,09-02-2026,C0024,Chicken Breast 1kg,Meat,6,89,0.15,453.9,Malmö,Cash
+ORD1031,27-02-2026,C0022,Apples 1kg,Fruit,1,29,0,29,Stockholm,Cash
+ORD1032,12-03-2026,C0005,Orange Juice 1L,Beverages,3,31,0,93,Stockholm,Card
+ORD1033,09-01-2026,C0033,Bread,Bakery,4,24,0,96,Uppsala,Swish
+ORD1034,27-03-2026,C0047,Potato Chips,Snacks,1,28,0,28,Västerås,Cash
+ORD1035,02-03-2026,C0013,Orange Juice 1L,Beverages,4,31,0.05,117.8,Stockholm,Card
+ORD1036,26-03-2026,C0030,Ground Beef 500g,Meat,2,74,0.05,140.6,Stockholm,Cash
+ORD1037,25-03-2026,C0022,Apples 1kg,Fruit,1,29,0.15,24.65,Stockholm,Card
+ORD1038,25-01-2026,C0028,Tea 20-pack,Beverages,2,39,0,78,Uppsala,Swish
+ORD1039,01-03-2026,C0029,Orange Juice 1L,Beverages,4,31,0,124,Västerås,Card
+ORD1040,07-01-2026,C0060,Mineral Water 1.5L,Beverages,4,12,0,48,Uppsala,Card
+ORD1041,22-02-2026,C0058,Potato Chips,Snacks,2,28,0.05,53.2,Stockholm,Card
+ORD1042,18-02-2026,C0060,Milk 1L,Dairy,6,18.5,0,111,Malmö,Swish
+ORD1043,24-02-2026,C0010,Mineral Water 1.5L,Beverages,3,12,0.05,34.2,Uppsala,Swish
+ORD1044,28-01-2026,C0004,Bread,Bakery,2,24,0.1,43.2,Gothenburg,Card
+ORD1045,07-01-2026,C0011,Potato Chips,Snacks,2,28,0.1,50.4,Stockholm,Cash
+ORD1046,11-01-2026,C0044,Coffee 500g,Beverages,1,69,0,69,Uppsala,Swish
+ORD1047,16-01-2026,C0040,Orange Juice 1L,Beverages,2,31,0,62,Stockholm,Swish
+ORD1048,26-03-2026,C0014,Yogurt 500g,Dairy,2,26,0,52,Gothenburg,Card
+ORD1049,03-02-2026,C0020,Chicken Breast 1kg,Meat,1,89,0.15,75.65,Malmö,Swish
+ORD1050,10-01-2026,C0007,Milk 1L,Dairy,2,18.5,0.1,33.3,Stockholm,Cash
+ORD1051,28-01-2026,C0057,Yogurt 500g,Dairy,1,26,0,26,Stockholm,Card
+ORD1052,17-02-2026,C0046,Rice 1kg,Pantry,1,27,0.1,24.3,Gothenburg,Cash
+ORD1053,25-03-2026,C0020,Yogurt 500g,Dairy,1,26,0.1,23.4,Stockholm,Card
+ORD1054,03-02-2026,C0036,Apples 1kg,Fruit,4,29,0.15,98.6,Uppsala,Swish
+ORD1055,06-02-2026,C0044,Tea 20-pack,Beverages,3,39,0,117,Gothenburg,Cash
+ORD1056,04-03-2026,C0006,Pasta 500g,Pantry,5,21,0,105,Malmö,Swish
+ORD1057,06-01-2026,C0041,Milk 1L,Dairy,2,18.5,0,37,Gothenburg,Card
+ORD1058,26-02-2026,C0001,Mineral Water 1.5L,Beverages,3,12,0.1,32.4,Stockholm,Card
+ORD1059,30-03-2026,C0038,Bananas 1kg,Fruit,2,22,0,44,Västerås,Card
+ORD1060,25-02-2026,C0058,Bananas 1kg,Fruit,1,22,0,22,Stockholm,Swish
+ORD1061,27-01-2026,C0050,Orange Juice 1L,Beverages,3,31,0,93,Västerås,Swish
+ORD1062,21-03-2026,C0056,Bananas 1kg,Fruit,5,22,0,110,Uppsala,Card
+ORD1063,22-02-2026,C0051,Milk 1L,Dairy,1,18.5,0,18.5,Malmö,Cash
+ORD1064,01-02-2026,C0007,Pasta 500g,Pantry,1,21,0.15,17.85,Malmö,Card
+ORD1065,02-03-2026,C0023,Orange Juice 1L,Beverages,1,31,0.05,29.45,Unknown,Card
+ORD1066,29-01-2026,C0022,Milk 1L,Dairy,3,18.5,0.05,52.72,Gothenburg,Card
+ORD1067,05-02-2026,C0044,Cereal 500g,Breakfast,3,45,0.05,128.25,Västerås,Swish
+ORD1068,04-01-2026,C0012,Apples 1kg,Fruit,4,29,0,116,Västerås,Swish
+ORD1069,05-01-2026,C0047,Apples 1kg,Fruit,3,29,0,87,Gothenburg,Swish
+ORD1070,19-03-2026,C0013,Yogurt 500g,Dairy,1,26,0.1,23.4,Gothenburg,Card
+ORD1071,25-02-2026,C0044,Milk 1L,Dairy,2,18.5,0.1,33.3,Uppsala,Swish
+ORD1072,25-02-2026,C0040,Eggs 12-pack,Dairy,5,32,0,160,Gothenburg,Cash
+ORD1073,16-01-2026,C0027,Rice 1kg,Pantry,2,27,0.15,45.9,Gothenburg,Swish
+ORD1074,31-03-2026,C0027,Rice 1kg,Pantry,2,27,0,54,Malmö,Cash
+ORD1075,23-01-2026,C0020,Rice 1kg,Pantry,2,27,0,54,Gothenburg,Card
+ORD1076,25-02-2026,C0044,Tomato Sauce,Pantry,2,19,0.05,36.1,Uppsala,Cash
+ORD1077,02-03-2026,C0033,Coffee 500g,Beverages,3,69,0,207,Västerås,Swish
+ORD1078,12-01-2026,C0052,Orange Juice 1L,Beverages,3,31,0,93,Uppsala,Card
+ORD1079,04-01-2026,C0040,Bread,Bakery,1,24,0.05,22.8,Stockholm,Swish
+ORD1080,23-02-2026,C0032,Tea 20-pack,Beverages,3,39,0.05,111.15,Malmö,Card
+ORD1081,19-01-2026,C0050,Milk 1L,Dairy,4,18.5,0,74,Malmö,Card
+ORD1082,23-01-2026,C0016,Yogurt 500g,Dairy,2,26,0.1,46.8,Stockholm,Swish
+ORD1083,18-01-2026,C0039,Chocolate Bar,Snacks,3,16,0.1,43.2,Gothenburg,Swish
+ORD1084,20-03-2026,C0029,Yogurt 500g,Dairy,2,26,0.1,46.8,Uppsala,Cash
+ORD1085,02-03-2026,C0054,Chocolate Bar,Snacks,1,16,0,16,Gothenburg,Cash
+ORD1086,04-03-2026,C0046,Orange Juice 1L,Beverages,1,31,0,31,Gothenburg,Card
+ORD1087,04-02-2026,C0006,Tomato Sauce,Pantry,2,19,0.1,34.2,Uppsala,Card
+ORD1088,30-01-2026,C0014,Chicken Breast 1kg,Meat,3,89,0.15,226.95,Stockholm,Swish
+ORD1089,22-02-2026,C0004,Tomato Sauce,Pantry,2,19,0.05,36.1,Uppsala,Swish
+ORD1090,19-02-2026,C0025,Milk 1L,Dairy,4,18.5,0.1,66.6,Malmö,Card
+ORD1091,15-02-2026,C0035,Rice 1kg,Pantry,3,27,0.05,76.95,Västerås,Cash
+ORD1092,29-01-2026,C0032,Potato Chips,Snacks,1,28,0.05,26.6,Stockholm,Swish
+ORD1093,13-02-2026,C0059,Chicken Breast 1kg,Meat,3,89,0.05,253.65,Uppsala,Cash
+ORD1094,10-03-2026,C0037,Milk 1L,Dairy,5,18.5,0.1,83.25,Stockholm,Card
+ORD1095,24-03-2026,C0012,Ground Beef 500g,Meat,1,74,0.05,70.3,Stockholm,Swish
+ORD1096,18-02-2026,C0022,Tomato Sauce,Pantry,1,19,0,19,Malmö,Swish
+ORD1097,23-02-2026,C0002,Pasta 500g,Pantry,4,21,0.05,79.8,Västerås,Card
+ORD1098,14-02-2026,C0003,Orange Juice 1L,Beverages,3,31,0.15,79.05,Stockholm,Card
+ORD1099,26-01-2026,C0009,Milk 1L,Dairy,3,18.5,0,55.5,Malmö,Cash
+ORD1100,15-01-2026,C0050,Tea 20-pack,Beverages,2,39,0,78,Gothenburg,Card
+ORD1101,19-03-2026,C0020,Apples 1kg,Fruit,3,29,0,87,Stockholm,Cash
+ORD1102,04-01-2026,C0026,Rice 1kg,Pantry,2,27,0.05,51.3,Uppsala,Card
+ORD1103,17-03-2026,C0055,Orange Juice 1L,Beverages,1,31,0,31,Västerås,Card
+ORD1104,14-03-2026,C0043,Bread,Bakery,2,24,0.05,45.6,Gothenburg,Card
+ORD1105,06-03-2026,C0053,Tomato Sauce,Pantry,1,19,0.05,18.05,Malmö,Card
+ORD1106,25-02-2026,C0046,Cereal 500g,Breakfast,3,45,0.05,128.25,Uppsala,Swish
+ORD1107,23-01-2026,C0040,Yogurt 500g,Dairy,5,26,0,130,Västerås,Swish
+ORD1108,01-03-2026,C0018,Ground Beef 500g,Meat,4,74,0.1,266.4,Gothenburg,Card
+ORD1109,12-01-2026,C0049,Pasta 500g,Pantry,4,21,0,84,Malmö,Cash
+ORD1110,20-03-2026,C0055,Chicken Breast 1kg,Meat,2,89,0.05,169.1,Gothenburg,Card
+ORD1111,04-03-2026,C0022,Tea 20-pack,Beverages,2,39,0,78,Gothenburg,Cash
+ORD1112,31-03-2026,C0013,Pasta 500g,Pantry,2,21,0.1,37.8,Stockholm,Card
+ORD1113,22-02-2026,C0045,Potato Chips,Snacks,2,28,0,56,Malmö,Cash
+ORD1114,04-03-2026,C0019,Chocolate Bar,Snacks,4,16,0,64,Uppsala,Swish
+ORD1115,30-03-2026,C0024,Orange Juice 1L,Beverages,2,31,0.1,55.8,Malmö,Cash
+ORD1116,09-03-2026,C0036,Cereal 500g,Breakfast,2,45,0.15,76.5,Gothenburg,Swish
+ORD1117,31-03-2026,C0015,Chocolate Bar,Snacks,1,16,0,16,Stockholm,Cash
+ORD1118,25-01-2026,C0049,Tomato Sauce,Pantry,1,19,0.1,17.1,Uppsala,Card
+ORD1119,28-01-2026,C0049,Potato Chips,Snacks,1,28,0.1,25.2,Västerås,Cash
+ORD1120,06-02-2026,C0015,Apples 1kg,Fruit,4,29,0,116,Gothenburg,Card
+ORD1121,08-02-2026,C0018,Milk 1L,Dairy,3,18.5,0,55.5,Stockholm,Card
+ORD1122,12-03-2026,C0041,Rice 1kg,Pantry,3,27,0,81,Malmö,Card
+ORD1123,02-01-2026,C0022,Rice 1kg,Pantry,2,27,0.05,51.3,Uppsala,Card
+ORD1124,02-02-2026,C0026,Potato Chips,Snacks,1,28,0,28,Malmö,Card
+ORD1125,15-03-2026,C0020,Bread,Bakery,1,24,0.1,21.6,Stockholm,Card
+ORD1126,16-01-2026,C0039,Mineral Water 1.5L,Beverages,3,12,0.1,32.4,Västerås,Card
+ORD1127,08-03-2026,C0020,Chicken Breast 1kg,Meat,2,89,0.05,169.1,Västerås,Swish
+ORD1128,09-02-2026,C0007,Bread,Bakery,3,24,0.15,61.2,Uppsala,Cash
+ORD1129,28-01-2026,C0016,Pasta 500g,Pantry,3,21,0,63,Uppsala,Cash
+ORD1130,10-01-2026,C0045,Coffee 500g,Beverages,1,69,0.05,65.55,Västerås,Swish
+ORD1131,07-02-2026,C0019,Bread,Bakery,1,24,0.15,20.4,Malmö,Card
+ORD1132,29-03-2026,C0038,Orange Juice 1L,Beverages,5,31,0.15,131.75,Uppsala,Swish
+ORD1133,15-01-2026,C0059,Mineral Water 1.5L,Beverages,1,12,0,12,Gothenburg,Card
+ORD1134,10-01-2026,C0039,Bread,Bakery,1,24,0,24,Västerås,Swish
+ORD1135,26-02-2026,C0045,Apples 1kg,Fruit,2,29,0,58,Malmö,Swish
+ORD1136,06-03-2026,C0039,Mineral Water 1.5L,Beverages,2,12,0,24,Stockholm,Swish
+ORD1137,11-02-2026,C0044,Pasta 500g,Pantry,1,21,0,21,Västerås,Cash
+ORD1138,03-01-2026,C0031,Pasta 500g,Pantry,2,21,0,42,Västerås,Cash
+ORD1139,26-02-2026,C0028,Pasta 500g,Pantry,1,21,0.1,18.9,Malmö,Card
+ORD1140,02-03-2026,C0043,Cereal 500g,Breakfast,2,45,0,90,Stockholm,Card
+ORD1141,12-02-2026,C0043,Ground Beef 500g,Meat,3,74,0,222,Malmö,Cash
+ORD1142,05-01-2026,C0021,Chocolate Bar,Snacks,1,16,0,16,Stockholm,Swish
+ORD1143,07-03-2026,C0030,Milk 1L,Dairy,3,18.5,0.1,49.95,Malmö,Card
+ORD1144,25-01-2026,C0041,Yogurt 500g,Dairy,2,26,0.05,49.4,Malmö,Card
+ORD1145,27-01-2026,C0029,Pasta 500g,Pantry,2,21,0,42,Malmö,Card
+ORD1146,04-01-2026,C0036,Orange Juice 1L,Beverages,3,31,0,93,Stockholm,Cash
+ORD1147,22-02-2026,C0030,Eggs 12-pack,Dairy,1,32,0,32,Stockholm,Cash
+ORD1148,20-01-2026,C0033,Potato Chips,Snacks,5,28,0,140,Gothenburg,Swish
+ORD1149,03-03-2026,C0010,Potato Chips,Snacks,1,28,0.1,25.2,Malmö,Card
+ORD1150,18-03-2026,C0056,Yogurt 500g,Dairy,3,26,0,78,Stockholm,Swish
