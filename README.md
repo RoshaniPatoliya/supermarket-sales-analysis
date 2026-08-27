@@ -90,7 +90,7 @@ The interactive Power BI dashboard includes:
 
 ### Dashboard Preview
 
-
+![Supermarket Sales Power BI Dashboard](dashboard/supermarket_dashboard.png)
 
 ## 📁 Repository Structure
 
